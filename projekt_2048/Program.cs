@@ -30,8 +30,6 @@ namespace projekt_2048
             } while (!vNehezseg);
             Console.WriteLine("A név megfelelő! Kezdődik a játék!");
 
-            JatekVaza ja = new JatekVaza();
-            ja.VazKiiras();
             Console.ReadKey();
         }
     }

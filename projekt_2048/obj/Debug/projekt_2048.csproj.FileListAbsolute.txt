@@ -4,3 +4,9 @@ C:\Users\Vanessza\Desktop\Egyetem\2.félév\Prog2\projekt_2048\projekt_2048\bin\
 C:\Users\Vanessza\Desktop\Egyetem\2.félév\Prog2\projekt_2048\projekt_2048\obj\Debug\projekt_2048.csprojResolveAssemblyReference.cache
 C:\Users\Vanessza\Desktop\Egyetem\2.félév\Prog2\projekt_2048\projekt_2048\obj\Debug\projekt_2048.exe
 C:\Users\Vanessza\Desktop\Egyetem\2.félév\Prog2\projekt_2048\projekt_2048\obj\Debug\projekt_2048.pdb
+C:\Users\Vanessza\Desktop\Egyetem\2.félév\Prog2\projekt_2048\2048game\projekt_2048\bin\Debug\projekt_2048.exe.config
+C:\Users\Vanessza\Desktop\Egyetem\2.félév\Prog2\projekt_2048\2048game\projekt_2048\obj\Debug\projekt_2048.exe
+C:\Users\Vanessza\Desktop\Egyetem\2.félév\Prog2\projekt_2048\2048game\projekt_2048\obj\Debug\projekt_2048.pdb
+C:\Users\Vanessza\Desktop\Egyetem\2.félév\Prog2\projekt_2048\2048game\projekt_2048\obj\Debug\projekt_2048.csprojResolveAssemblyReference.cache
+C:\Users\Vanessza\Desktop\Egyetem\2.félév\Prog2\projekt_2048\2048game\projekt_2048\bin\Debug\projekt_2048.exe
+C:\Users\Vanessza\Desktop\Egyetem\2.félév\Prog2\projekt_2048\2048game\projekt_2048\bin\Debug\projekt_2048.pdb
